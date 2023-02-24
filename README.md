@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nadzmi Ag Thomas</h1>
+<h1 align="center">Hi 👋, I'm N</h1>
 <h3 align="center">I love learning new things</h3>
 
 - 🌱 I’m currently learning **AlgoTrading & MERN Stack**
