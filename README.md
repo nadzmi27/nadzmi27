@@ -1,11 +1,11 @@
 # Hi I'm Nadzmi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm studying Bachelor of Computer Science and Bachelor of Commerce at Monash University. I'm currently in the process of learning MERN Stack for the collaborative project [PomoPomo](https://github.com/nadzmi27/pomopomo). Furthermore, I'm also learning AlgoTrading in hope to earn consistent investment return. My interest mainly lies in ML/AI as can be seen in my [Kaggle Account](https://www.kaggle.com/nadzmiagthomas). My goal for 2023 is to work on my communication skills, start writing on [Medium](https://medium.com/), and learning photography.
+I'm studying Bachelor of Computer Science and Bachelor of Commerce at Monash University. I'm currently in the process of learning MERN Stack for a collaborative project [PomoPomo](https://github.com/nadzmi27/pomopomo). Furthermore, I'm also learning AlgoTrading in hopes to earn consistent investment return. My interest mainly lies in ML/AI as can be seen in my [Kaggle Account](https://www.kaggle.com/nadzmiagthomas). My goals for 2023 are to work on my communication skills, start writing on [Medium](https://medium.com/), and learn photography.
 
-📫 Reach me out!
+📫 Reach out to me!
 
 [![Mail Badge](https://img.shields.io/badge/-nadzmiagthomas-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nadzmiagthomas@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/-Anji_Baccano-1ca0f1?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white&link=https://www.kaggle.com/nadzmiagthomas)](https://www.kaggle.com/nadzmiagthomas)
+[![Kaggle Badge](https://img.shields.io/badge/-Nadzmi-1ca0f1?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white&link=https://www.kaggle.com/nadzmiagthomas)](https://www.kaggle.com/nadzmiagthomas)
 [![Instagram Badge](https://img.shields.io/badge/-@nadzmi27-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nadzmi27/?hl=en) 
 
 ---
@@ -40,8 +40,6 @@ I'm studying Bachelor of Computer Science and Bachelor of Commerce at Monash Uni
 </summary>
 
 <br >
-I love learning new stuff, and therefore I have wide range of hobbies. This include, playing guitar, skateboarding, rollerblading, ice-skating and more. I also love to stay active by hitting the gym and playing sport regularly. 
+I love learning new things, and therefore I have a wide range of hobbies. This includes, playing guitar, skateboarding, rollerblading, ice-skating and more. I also love to stay active by hitting the gym and playing sport regularly. 
 
 </details>
-
-
