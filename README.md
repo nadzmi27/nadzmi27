@@ -12,7 +12,7 @@ I'm studying Bachelor of Computer Science and Bachelor of Commerce at Monash Uni
 ### 📚 My current playlist
 
 - 🕸️ [Deep Dive Into Modern Web Development - Full stack open](https://fullstackopen.com/en/)
-- 🤖 [Advances in Financial Machine Learning](https://www.wiley.com/en-au/Advances+in+Financial+Machine+Learning-p-9781119482086)
+- 🤖 [Machine Learning for Algorithmic Trading](https://www.oreilly.com/library/view/machine-learning-for/9781839217715/)
 - 📈 [Sytematic Trading](https://www.amazon.com/Systematic-Trading-designing-trading-investing/dp/0857194453)
 - 🐦 [The Social Skills Guidebook](https://www.amazon.com.au/Social-Skills-Guidebook-Shyness-Conversations-ebook/dp/B01AU8C766)
 
