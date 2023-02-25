@@ -2,6 +2,7 @@
 <br>
 
 **`Something about passion for learning`**
+
 I'm studying Bachelor of Computer Science and Bachelor of Commerce at Monash University. I specialise in Data Science and Business Analytics. I'm currently in the process of learning MERN Stack for collaborative project [PomoPomo](https://github.com/nadzmi27/pomopomo). Furthermore, I'm also learning AlgoTrading in hope to earn consistent investment return. My interest mainly lies in ML/AI, as can be seen in my [Kaggle Account](https://www.kaggle.com/nadzmiagthomas). My goal for 2023 is to work on my communication skills, and also to start writing on [Medium](https://medium.com/).
 
 ### Top Technologies
