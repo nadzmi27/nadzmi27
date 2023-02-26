@@ -40,6 +40,6 @@ I'm studying Bachelor of Computer Science and Bachelor of Commerce at Monash Uni
 </summary>
 
 <br >
-I love learning new things, and therefore I have a wide range of hobbies. This includes, playing guitar, skateboarding, rollerblading, ice-skating and more. I also love to stay active by hitting the gym and playing sport regularly. 
+I love learning new things, and therefore I have a wide range of hobbies. This includes, playing guitar, skateboarding, rollerblading, ice-skating and more. I also love to stay active by hitting the gym and playing sport regularly. Most importantly, I love to have fun >:)
 
 </details>
