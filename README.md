@@ -7,7 +7,6 @@ I'm studying Bachelor of Computer Science and Bachelor of Commerce at Monash Uni
 [![Mail Badge](https://img.shields.io/badge/-nadzmiagthomas-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nadzmiagthomas@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-Nadzmi-1ca0f1?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white&link=https://www.kaggle.com/nadzmiagthomas)](https://www.kaggle.com/nadzmiagthomas)
 [![Facebook Badge](https://img.shields.io/badge/-Nadzmi_Ag_Thomas-4867AA?style=flat&labelColor=4867AA&logo=facebook&logoColor=white)](https://www.facebook.com/nadzmi.nadzmi.587/) 
-[![Instagram Badge](https://img.shields.io/badge/-@nadzmi27-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nadzmi27/?hl=en) 
 
 ---
 ### 📚 My current playlist
@@ -17,9 +16,9 @@ I'm studying Bachelor of Computer Science and Bachelor of Commerce at Monash Uni
 - 📈 [Sytematic Trading](https://www.amazon.com/Systematic-Trading-designing-trading-investing/dp/0857194453)
 - 🐦 [The Social Skills Guidebook](https://www.amazon.com.au/Social-Skills-Guidebook-Shyness-Conversations-ebook/dp/B01AU8C766)
 
+<!-- Add skillsets -->
 
 ### 🏅 Top Technologies
-<!--  Add huggingface here-->
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python)](#) 
 [![R Badge](https://img.shields.io/badge/-R-2165B6?style=for-the-badge&labelColor=black&logo=r)](#)
 [![Pytorch Badge](https://img.shields.io/badge/-Pytorch-C13E24?style=for-the-badge&labelColor=black&logo=pytorch)](#) 
