@@ -26,6 +26,7 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-E6782D?style=for-the-badge&labelColor=black&logo=tableau&logoColor=white)](#) 
 [![Oracle Badge](https://img.shields.io/badge/-Oracle_SQL-C94634?style=for-the-badge&labelColor=black&logo=oracle)](#) 
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-09934E?style=for-the-badge&labelColor=black&logo=mongodb)](#) 
+[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma)](#) 
 
 ### 💼 Professional
 <!-- Make resume and portfolio -->
