@@ -19,17 +19,11 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 ### 🏅 Top Technologies - General
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python)](#) 
 [![R Badge](https://img.shields.io/badge/-R-2165B6?style=for-the-badge&labelColor=black&logo=r)](#)
+[![Pytorch Badge](https://img.shields.io/badge/-Pytorch-C13E24?style=for-the-badge&labelColor=black&logo=pytorch)](#) 
+[![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&labelColor=black&logo=huggingface)](#)
+[![LangChain Badge](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&labelColor=black&logo=langchain)](#) 
 [![TailwindCSS Badge](https://img.shields.io/badge/-Tailwind_CSS-34B4F3?style=for-the-badge&labelColor=black&logo=tailwindcss)](#) 
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-E6782D?style=for-the-badge&labelColor=black&logo=tableau&logoColor=white)](#) 
-
-
-### 🧪 ML/AI & Data Science
-[![Pytorch Badge](https://img.shields.io/badge/-Pytorch-C13E24?style=for-the-badge&labelColor=black&logo=pytorch)](#) 
-[![Tableau Badge](https://img.shields.io/badge/-Tableau-E6782D?style=for-the-badge&labelColor=black&logo=tableau&logoColor=white)](#) 
-[![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&labelColor=black&logo=huggingface&logoColor=white)](#)
-
-
-### 🧑‍🔬 Data Engineering
 [![Oracle Badge](https://img.shields.io/badge/-Oracle_SQL-C94634?style=for-the-badge&labelColor=black&logo=oracle)](#) 
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-09934E?style=for-the-badge&labelColor=black&logo=mongodb)](#) 
 
