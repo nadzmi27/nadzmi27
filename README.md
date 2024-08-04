@@ -1,6 +1,6 @@
 # Hi I'm Nadzmi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm studying Bachelor of Computer Science and Bachelor of Commerce at Monash University. I'm currently in the process of learning MERN Stack for a collaborative project [PomoPomo](https://github.com/nadzmi27/pomopomo). Furthermore, I'm also learning AlgoTrading in hopes to earn consistent investment return. My interest mainly lies in ML/AI as can be seen in my [Kaggle Account](https://www.kaggle.com/nadzmiagthomas). My goals for 2023 are to work on my communication skills, start writing on [Medium](https://medium.com/), and learn photography.
+I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and **Bachelor of Commerce (Specialising in Business Analytics)** at **Monash University Australia**. I enjoy doing projects outside the scope of what is taught within the University as it helps me broaden my knowledge and skills. My interest lies mainly in **ML/AI** and **Data Science**. Please also check my [Kaggle](https://www.kaggle.com/nadzmiagthomas) for some of the work I've published. Furthermore, I'm also in the process of improving myself in the field of Data Engineering by undertaking the free and highly acclaimed **[Data Engineering Zoomcamp](https://dezoomcamp.streamlit.app/)** in the hope of building my personal end-to-end Data Engineering project without going through YouTube tutorial. My goals for 2024 are to work on my communication skills, start writing on [Medium](https://medium.com/), and learn photography.
 
 📫 Reach out to me!
 
@@ -9,11 +9,10 @@ I'm studying Bachelor of Computer Science and Bachelor of Commerce at Monash Uni
 [![Facebook Badge](https://img.shields.io/badge/-Nadzmi_Ag_Thomas-4867AA?style=flat&labelColor=4867AA&logo=facebook&logoColor=white)](https://www.facebook.com/nadzmi.nadzmi.587/) 
 
 ---
-### 📚 My current playlist
+### 📚 Currently Learning
 
-- 🕸️ [Deep Dive Into Modern Web Development - Full stack open](https://fullstackopen.com/en/)
-- 🤖 [Machine Learning for Algorithmic Trading](https://www.oreilly.com/library/view/machine-learning-for/9781839217715/)
-- 📈 [Sytematic Trading](https://www.amazon.com/Systematic-Trading-designing-trading-investing/dp/0857194453)
+- 🚀 [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+- 💾 [Learn RAG From Scratch](https://www.youtube.com/watch?v=sVcwVQRHIc8)
 
 <!-- Add skillsets -->
 
@@ -39,6 +38,6 @@ I'm studying Bachelor of Computer Science and Bachelor of Commerce at Monash Uni
 </summary>
 
 <br >
-I love learning new things, and therefore I have a wide range of hobbies. This includes, playing guitar, skateboarding, rollerblading, ice-skating and more. I also love to stay active by hitting the gym and playing sport regularly. Most importantly, I love to have fun >:)
+I love learning new things, therefore I have a wide range of hobbies. This includes playing guitar, skateboarding, rollerblading, ice-skating and more. I also love to stay active by doing callisthenics and running. Most importantly, I love to have fun >:)
 
 </details>
