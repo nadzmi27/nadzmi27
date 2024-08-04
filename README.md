@@ -20,7 +20,7 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python)](#) 
 [![R Badge](https://img.shields.io/badge/-R-2165B6?style=for-the-badge&labelColor=black&logo=r)](#)
 [![Pytorch Badge](https://img.shields.io/badge/-Pytorch-C13E24?style=for-the-badge&labelColor=black&logo=pytorch)](#) 
-[![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-E6782D?style=for-the-badge&labelColor=black&logo=huggingface)](#)
+[![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-FF9D00?style=for-the-badge&labelColor=black&logo=huggingface)](#)
 [![LangChain Badge](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&labelColor=black&logo=langchain)](#) 
 [![TailwindCSS Badge](https://img.shields.io/badge/-Tailwind_CSS-34B4F3?style=for-the-badge&labelColor=black&logo=tailwindcss)](#) 
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-E6782D?style=for-the-badge&labelColor=black&logo=tableau&logoColor=white)](#) 
