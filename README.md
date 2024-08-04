@@ -26,7 +26,7 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 ### 🧪 ML/AI & Data Science
 [![Pytorch Badge](https://img.shields.io/badge/-Pytorch-C13E24?style=for-the-badge&labelColor=black&logo=pytorch)](#) 
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-E6782D?style=for-the-badge&labelColor=black&logo=tableau&logoColor=white)](#) 
-[![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](#)
+[![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&labelColor=black&logo=huggingface&logoColor=white)](#)
 
 
 ### 🧑‍🔬 Data Engineering
