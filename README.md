@@ -20,12 +20,14 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python)](#) 
 [![R Badge](https://img.shields.io/badge/-R-2165B6?style=for-the-badge&labelColor=black&logo=r)](#)
 [![Pytorch Badge](https://img.shields.io/badge/-Pytorch-C13E24?style=for-the-badge&labelColor=black&logo=pytorch)](#) 
+[![Sklearn Badge](https://img.shields.io/badge/-SkLearn-F7931E?style=for-the-badge&labelColor=black&logo=scikitlearn)](#) 
 [![HuggingFace Badge](https://img.shields.io/badge/-HuggingFace-FF9D00?style=for-the-badge&labelColor=black&logo=huggingface)](#)
 [![LangChain Badge](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&labelColor=black&logo=langchain)](#) 
 [![TailwindCSS Badge](https://img.shields.io/badge/-Tailwind_CSS-34B4F3?style=for-the-badge&labelColor=black&logo=tailwindcss)](#) 
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-E6782D?style=for-the-badge&labelColor=black&logo=tableau&logoColor=white)](#) 
 [![Oracle Badge](https://img.shields.io/badge/-Oracle_SQL-C94634?style=for-the-badge&labelColor=black&logo=oracle)](#) 
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-09934E?style=for-the-badge&labelColor=black&logo=mongodb)](#) 
+[![Spark Badge](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=for-the-badge&labelColor=black&logo=apachespark)](#) 
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma)](#) 
 
 ### 💼 Professional
