@@ -6,7 +6,6 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 
 [![Mail Badge](https://img.shields.io/badge/-nadzmiagthomas-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nadzmiagthomas@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-Nadzmi-1ca0f1?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white&link=https://www.kaggle.com/nadzmiagthomas)](https://www.kaggle.com/nadzmiagthomas)
-[![Facebook Badge](https://img.shields.io/badge/-Nadzmi_Ag_Thomas-4867AA?style=flat&labelColor=4867AA&logo=facebook&logoColor=white)](https://www.facebook.com/nadzmi.nadzmi.587/) 
 
 ---
 ### ⚒️ My Projects
