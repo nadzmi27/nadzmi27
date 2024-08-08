@@ -14,24 +14,24 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 <div width="100%" align="left">
   <table align="centre">
       <tr>
-          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
-          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
+          <td>🌞 Climate Pulse (Final Year Project) - <a href="https://github.com/Kuuruprasath/Climate-Pulse">GitHub</a></td>
+          <td>🔎 Embedding Search (Vector Search Engine) - <a href="https://github.com/nadzmi27/EmbeddingSearch">GitHub</a></td>
+      </tr>
+        <tr>
+          <td>🖼️ DataVis Collection (Tableau; Vega-Lite; Flexdashboard) - <a href="https://github.com/nadzmi27/DataVis">GitHub</a></td>
+          <td>📖 Wikipedia Scraper (Streamlit App) - <a href="https://github.com/nadzmi27/Wikipedia-Scraper">GitHub</a></td>
       </tr>
       <tr>
-          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
-          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
+          <td>😷 SEIR Modelling for COVID-19 (Simulation) - <a href="https://github.com/nadzmi27/SEIR-Modelling-for-COVID19">GitHub</a></td>
+          <td>📈 Retail Forecasting (ARIMA & ETS) - <a href="https://github.com/nadzmi27/Retail-Forecasting">GitHub</a></td>
       </tr>
       <tr>
-          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
-          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
+          <td>🍵 pomopomo (ON HIATUS) - <a href="https://github.com/nadzmi27/pomopomo">GitHub</a></td>
+          <td>🕸️ Multithread Web Scraping (Efficient Selenium Scraping) - <a href="https://github.com/nadzmi27/Multithread-Webscraping">GitHub</a></td>
       </tr>
       <tr>
-          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
-          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
-      </tr>
-      <tr>
-          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
-          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
+          <td>🔥Climate Data Monitoring (Big Data Processing) - <a href="https://github.com/nadzmi27/Climate-Data-Monitoring">GitHub</a></td>
+          <td>🏭 Data Warehousing (Multi-Dimensional Database) - <a href="https://github.com/nadzmi27/Data-Warehousing-Assignment">GitHub</a></td>
       </tr>
   </table>
 </div>
