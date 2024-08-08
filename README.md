@@ -18,7 +18,7 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
           <td>🔎 Embedding Search (Vector Search Engine) - <a href="https://github.com/nadzmi27/EmbeddingSearch">GitHub</a></td>
       </tr>
         <tr>
-          <td>🖼️ DataVis Collection (Tableau; Vega-Lite; Flexdashboard) - <a href="https://github.com/nadzmi27/DataVis">GitHub</a></td>
+          <td>🖼️ Visualisation Gallery (Tableau; Vega-Lite; Flexdashboard) - <a href="https://github.com/nadzmi27/DataVis">GitHub</a></td>
           <td>📖 Wikipedia Scraper (Streamlit App) - <a href="https://github.com/nadzmi27/Wikipedia-Scraper">GitHub</a></td>
       </tr>
       <tr>
@@ -27,7 +27,7 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
       </tr>
       <tr>
           <td>🍵 pomopomo (ON HIATUS) - <a href="https://github.com/nadzmi27/pomopomo">GitHub</a></td>
-          <td>🕸️ Multithread Web Scraping (Efficient Selenium Scraping) - <a href="https://github.com/nadzmi27/Multithread-Webscraping">GitHub</a></td>
+          <td>🕸️ Multithread Scraping (Efficient Selenium Scraping) - <a href="https://github.com/nadzmi27/Multithread-Webscraping">GitHub</a></td>
       </tr>
       <tr>
           <td>🔥Climate Data Monitoring (Big Data Processing) - <a href="https://github.com/nadzmi27/Climate-Data-Monitoring">GitHub</a></td>
