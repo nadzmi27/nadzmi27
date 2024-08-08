@@ -18,7 +18,7 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
           <td>🔎 Embedding Search (Vector Search Engine) - <a href="https://github.com/nadzmi27/EmbeddingSearch">GitHub</a></td>
       </tr>
         <tr>
-          <td>🖼️ Visualisation Gallery (Tableau; Vega-Lite; Flexdashboard) - <a href="https://github.com/nadzmi27/DataVis">GitHub</a></td>
+          <td>🖼️ DataVis Gallery (Tableau; Vega-Lite; Flexdashboard) - <a href="https://github.com/nadzmi27/DataVis">GitHub</a></td>
           <td>📖 Wikipedia Scraper (Streamlit App) - <a href="https://github.com/nadzmi27/Wikipedia-Scraper">GitHub</a></td>
       </tr>
       <tr>
