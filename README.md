@@ -11,8 +11,8 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 ---
 ### ⚒️ My Projects
 
-
-  <table align="center">
+<div width="100%" align="left">
+  <table align="centre">
       <tr>
           <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
           <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
@@ -34,6 +34,7 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
           <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
       </tr>
   </table>
+</div>
 
 ### 📚 Currently Learning
 
