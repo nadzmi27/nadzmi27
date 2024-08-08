@@ -9,6 +9,32 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 [![Facebook Badge](https://img.shields.io/badge/-Nadzmi_Ag_Thomas-4867AA?style=flat&labelColor=4867AA&logo=facebook&logoColor=white)](https://www.facebook.com/nadzmi.nadzmi.587/) 
 
 ---
+### ⚒️ My Projects
+
+
+  <table align="center">
+      <tr>
+          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
+          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
+      </tr>
+      <tr>
+          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
+          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
+      </tr>
+      <tr>
+          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
+          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
+      </tr>
+      <tr>
+          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
+          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
+      </tr>
+      <tr>
+          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
+          <td>Project Name - <a href="https://github.com/nadzmi27">Project Link</a></td>
+      </tr>
+  </table>
+
 ### 📚 Currently Learning
 
 - 🚀 [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
