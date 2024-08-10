@@ -66,7 +66,7 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 <br>
 <details>
 <summary>
-  <span  style="font-size:12pt">‎ More stuff about me </span>
+  <span  style="font-size:12pt">‎ 🌻 More stuff about me </span>
 </summary>
 
 <br >
