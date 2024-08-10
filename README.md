@@ -13,8 +13,8 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 <div width="100%" align="left">
   <table align="centre">
       <tr>
-          <td>🌞 Climate Pulse (Final Year Project) - <a href="https://github.com/Kuuruprasath/Climate-Pulse">GitHub</a></td>
           <td>🔎 Embedding Search (Vector Search Engine) - <a href="https://github.com/nadzmi27/EmbeddingSearch">GitHub</a></td>
+          <td>🌞 Climate Pulse (Final Year Project) - <a href="https://github.com/Kuuruprasath/Climate-Pulse">GitHub</a></td>
       </tr>
         <tr>
           <td>🖼️ DataVis Gallery (Tableau; Vega-Lite; Flexdashboard) - <a href="https://github.com/nadzmi27/DataVis">GitHub</a></td>
