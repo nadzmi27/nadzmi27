@@ -46,11 +46,12 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 [![TailwindCSS Badge](https://img.shields.io/badge/-Tailwind_CSS-34B4F3?style=for-the-badge&labelColor=black&logo=tailwindcss)](#) 
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-E6782D?style=for-the-badge&labelColor=black&logo=tableau&logoColor=white)](#) 
 [![Vega Badge](https://img.shields.io/badge/-Vega-2450B2?style=for-the-badge&labelColor=black&logo=vega)](#)
-[![Oracle Badge](https://img.shields.io/badge/-Oracle_SQL-C94634?style=for-the-badge&labelColor=black&logo=oracle)](#) 
+[![Oracle Badge](https://img.shields.io/badge/-Oracle_SQL-C94634?style=for-the-badge&labelColor=black&logo=oracle)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-09934E?style=for-the-badge&labelColor=black&logo=mongodb)](#) 
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker)](#)
+[![Airflow Badge](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=for-the-badge&labelColor=black&logo=apacheairflow)](#)
 [![Spark Badge](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=for-the-badge&labelColor=black&logo=apachespark)](#) 
 [![Kafka Badge](https://img.shields.io/badge/-Apache_Kafka-231F20?style=for-the-badge&labelColor=black&logo=apachekafka)](#) 
-[![Airflow Badge](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=for-the-badge&labelColor=black&logo=apacheairflow)](#)
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma)](#) 
 
 ### 📚 Currently Learning
