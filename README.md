@@ -35,16 +35,8 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
   </table>
 </div>
 
-### 📚 Currently Learning
-
-- 🚀 [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
-- 💾 [Learn RAG From Scratch](https://www.youtube.com/watch?v=sVcwVQRHIc8)
-
-### 🔮 Future Learning
-- 🏗️ [Modern Fullstack Development](https://fullstackopen.com/en/about)
-<!-- Add skillsets -->
-
 ### 🏅 Top Technologies
+<!-- Change this to worded list -->
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python)](#) 
 [![R Badge](https://img.shields.io/badge/-R-2165B6?style=for-the-badge&labelColor=black&logo=r)](#)
 [![Pytorch Badge](https://img.shields.io/badge/-Pytorch-C13E24?style=for-the-badge&labelColor=black&logo=pytorch)](#) 
@@ -60,6 +52,14 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 [![Kafka Badge](https://img.shields.io/badge/-Apache_Kafka-231F20?style=for-the-badge&labelColor=black&logo=apachekafka)](#) 
 [![Airflow Badge](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=for-the-badge&labelColor=black&logo=apacheairflow)](#)
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma)](#) 
+
+### 📚 Currently Learning
+
+- 🚀 [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+- 💾 [Learn RAG From Scratch](https://www.youtube.com/watch?v=sVcwVQRHIc8)
+
+### 🔮 Future Learning
+- 🏗️ [Modern Fullstack Development](https://fullstackopen.com/en/about)
 
 ### 💼 Professional
 <!-- Make resume and portfolio -->
