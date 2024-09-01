@@ -52,6 +52,8 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 [![Airflow Badge](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=for-the-badge&labelColor=black&logo=apacheairflow)](#)
 [![Spark Badge](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=for-the-badge&labelColor=black&logo=apachespark)](#) 
 [![Kafka Badge](https://img.shields.io/badge/-Apache_Kafka-231F20?style=for-the-badge&labelColor=black&logo=apachekafka)](#) 
+[![Lambda Badge](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=for-the-badge&labelColor=black&logo=awslambda)](#) 
+[![RDS Badge](https://img.shields.io/badge/-Amazon_RDS-527FFF?style=for-the-badge&labelColor=black&logo=amazonrds)](#) 
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma)](#) 
 
 ### 📚 Currently Learning
