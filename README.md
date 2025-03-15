@@ -14,7 +14,7 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
   <table align="centre">
       <tr>
           <td>🔎 Embedding Search (Vector Search Engine) - <a href="https://github.com/nadzmi27/EmbeddingSearch">GitHub</a></td>
-          <td>🍵 pomopomo (ON HIATUS) - <a href="https://github.com/nadzmi27/pomopomo">GitHub</a></td>
+          <td>🍵 PomoPomo - <a href="https://github.com/nadzmi27/pomopomo">GitHub</a></td>
       </tr>
         <tr>
           <td>🖼️ DataVis Gallery (Tableau; Vega-Lite; Flexdashboard) - <a href="https://github.com/nadzmi27/DataVis">GitHub</a></td>
