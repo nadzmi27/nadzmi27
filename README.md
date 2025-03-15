@@ -59,11 +59,10 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 ### 📚 Currently Learning
 
 - 🔨 [The Odin Project](https://www.theodinproject.com/)
-- 🚀 [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 - 💾 [Learn RAG From Scratch](https://www.youtube.com/watch?v=sVcwVQRHIc8)
 
 ### 🔮 Future Learning
-- 🏗️ [Modern Fullstack Development](https://fullstackopen.com/en/about)
+- 🚀 [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 ### 💼 Professional
 <!-- Make resume and portfolio -->
