@@ -13,9 +13,8 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 <div width="100%" align="left">
   <table align="centre">
       <tr>
-          <td>🔎 Embedding Search (Vector Search Engine) - <a href="https://github.com/nadzmi27/EmbeddingSearch">GitHub</a></td>
           <td>🌲 Vocab Forest (Fullstack) - <a href="https://vocabforest.com/">Website</a></td>
-
+          <td>🔎 Embedding Search (Vector Search Engine) - <a href="https://github.com/nadzmi27/EmbeddingSearch">GitHub</a></td>
       </tr>
         <tr>
           <td>🖼️ DataVis Gallery (Tableau; Vega-Lite; Flexdashboard) - <a href="https://github.com/nadzmi27/DataVis">GitHub</a></td>
@@ -56,14 +55,6 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 [![Lambda Badge](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=for-the-badge&labelColor=black&logo=awslambda)](#) 
 [![RDS Badge](https://img.shields.io/badge/-Amazon_RDS-527FFF?style=for-the-badge&labelColor=black&logo=amazonrds)](#) 
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma)](#) 
-
-### 📚 Currently Learning
-
-- 🔨 [The Odin Project](https://www.theodinproject.com/)
-- 💾 [Learn RAG From Scratch](https://www.youtube.com/watch?v=sVcwVQRHIc8)
-
-### 🔮 Future Learning
-- 🚀 [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 ### 💼 Professional
 <!-- Make resume and portfolio -->
