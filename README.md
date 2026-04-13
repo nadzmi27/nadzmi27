@@ -1,6 +1,6 @@
 # Hi I'm Nadzmi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and **Bachelor of Commerce (Specialising in Business Analytics)** at **Monash University Australia**. I enjoy doing projects outside the scope of what is taught within the University as it helps me broaden my knowledge and skills. My interest lies mainly in **ML/AI** and **Data Science**. Please also check my [Kaggle](https://www.kaggle.com/nadzmiagthomas) for some of the work I've published. Furthermore, I'm also in the process of improving myself in the field of Data Engineering by undertaking the free and highly acclaimed **[Data Engineering Zoomcamp](https://dezoomcamp.streamlit.app/)** in the hope of building my personal end-to-end Data Engineering project without going through YouTube tutorial. My goals for 2024 are to work on my communication skills, start writing on [Medium](https://medium.com/), and study photography.
+I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and **Bachelor of Commerce (Specialising in Business Analytics)** at **Monash University Australia**. I enjoy playing chess and callisthenics. My interest lies mainly in **ML/AI**,**Data Science**, and recently I've been working on full-stack web development. Please also check my [Kaggle](https://www.kaggle.com/nadzmiagthomas) for some of the work I've published. 
 
 📫 Reach out to me!
 
@@ -14,7 +14,8 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
   <table align="centre">
       <tr>
           <td>🔎 Embedding Search (Vector Search Engine) - <a href="https://github.com/nadzmi27/EmbeddingSearch">GitHub</a></td>
-          <td>🍵 pomopomo - <a href="https://github.com/nadzmi27/pomopomo">GitHub</a></td>
+          <td>🌲 Vocab Forest (Fullstack) - <a href="https://vocabforest.com/">Website</a></td>
+
       </tr>
         <tr>
           <td>🖼️ DataVis Gallery (Tableau; Vega-Lite; Flexdashboard) - <a href="https://github.com/nadzmi27/DataVis">GitHub</a></td>
@@ -30,7 +31,7 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
       </tr>
       <tr>
           <td>🌞 Climate Pulse (Final Year Project) - <a href="https://github.com/Kuuruprasath/Climate-Pulse">GitHub</a></td>
-          <td>🏭 Data Warehousing (Multi-Dimensional Database) - <a href="https://github.com/nadzmi27/Data-Warehousing-Assignment">GitHub</a></td>
+          <td>🍵 pomopomo - <a href="https://github.com/nadzmi27/pomopomo">GitHub</a></td>
       </tr>
   </table>
 </div>
