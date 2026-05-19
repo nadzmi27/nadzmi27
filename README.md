@@ -59,7 +59,7 @@ I'm studying **Bachelor of Computer Science (Specialising in Data Science)** and
 ### 💼 Professional
 <!-- Make resume and portfolio -->
 - 📃 [My Resume/CV](#)
-- ✨ [Portfolio](#)
+- ✨ [Portfolio](https://nadzmi27.github.io/portfolio/)
 
 <br>
 <details>
